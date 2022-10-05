@@ -7,4 +7,4 @@ https://www.youtube.com/watch?v=8ZCWLC3xI_Q
 
 
 
-Add your working ai model jupiter notebook for any modality
+Add your working ai model jupyter notebook for any modality
